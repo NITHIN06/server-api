@@ -5,8 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"json-server -p 3006 -w db.json",
-    "deploy": "gh-pages -d build"
+    "start":"json-server -p 3006 -w db.json"
   },
   "keywords": [],
   "author": "",
